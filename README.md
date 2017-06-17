@@ -8,6 +8,6 @@ React native alarm clock application connected to shockband device with ble - Bl
 <img width = 250px src="https://i.hizliresim.com/N14GmO.jpg">
 </div>
 </br>
-<img width = 250px height = 300px src="https://i.hizliresim.com/pWo2l0.jpg">
+<img width = 480px height = 320px src="https://i.hizliresim.com/pWo2l0.jpg">
  
 </br>
