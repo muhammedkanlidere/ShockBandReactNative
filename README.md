@@ -11,8 +11,10 @@ React native alarm clock application connected to Shockband device with ble - Bl
 </div>
 </br>
 
+
 # Usage
 First you should set an alarm and when alarm time is up it giving shock to you, arduino used in hardware side and it was very funny project for me.
+https://youtu.be/rGa2RDHQfPc
 
 # Device prototype
 <img width = 480px height = 320px src="https://i.hizliresim.com/pWo2l0.jpg">
