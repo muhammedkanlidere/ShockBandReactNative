@@ -1,11 +1,12 @@
 # ShockBandReactNative
 
 <h1 align="center">
-React native alarm clock application connected to shockband device with ble - Bluetooth </h1>
+React native alarm clock application connected to Shockband device with ble - Bluetooth </h1>
 # Application
+</br>
 <div>
-<img width = 250px style="margin:35px;" src="https://i.hizliresim.com/RPVG21.jpg">
-<img width = 250px style="margin:35px;" src="https://i.hizliresim.com/aGDgmz.jpg">
+<img width = 250px style="margin:15px;" src="https://i.hizliresim.com/RPVG21.jpg">
+<img width = 250px style="margin:15px;" src="https://i.hizliresim.com/aGDgmz.jpg">
 <img width = 250px src="https://i.hizliresim.com/N14GmO.jpg">
 </div>
 </br>
